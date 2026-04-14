@@ -2,8 +2,8 @@
 // @name         Danbooru Quick Paste - New & Edit
 // @namespace    http://tampermonkey.net/
 // @version      1.5
-// @description  Hỗ trợ dán template cho cả trang Create New Pool và Edit Pool
-// @author       Ne Thefox
+// @description  dán template Create New Pool Edit Pool
+// @author       thefoxne
 // @match        *://*.donmai.us/pools*
 // @grant        none
 // ==/UserScript==

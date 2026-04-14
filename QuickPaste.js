@@ -7,6 +7,7 @@
 // @match        https://danbooru.donmai.us/pools/*/edit
 // @match        https://*.donmai.us/pools/*/edit
 // @match        *://*.donmai.us/pools/*/edit
+// @match        *://*.donmai.us/pools/new
 // @grant        none
 // ==/UserScript==
 
